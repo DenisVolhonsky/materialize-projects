@@ -1,0 +1,38 @@
+.logo {
+	background: red;
+	min-height: 150px;
+	text-align: center;
+}
+.site-title {
+	/*background: black;*/
+}
+.nav {
+	background: black;
+	min-height: 150px;
+}
+nav li {
+	width: 14.285%;
+	text-align: center;
+}
+.nav2 li{
+	display: inline-block;
+	padding: 3px 5px;
+	color: black;
+}
+.nav2 {
+ text-align: right;	
+}
+.my {
+	background: orange;
+	min-height: 100px;
+	overflow: hidden;
+}
+.pic {
+	min-height: 100px;
+}
+.logo>p, .nav>p {
+	display: block;
+	width: 100%;
+	text-align: center;
+}
+
